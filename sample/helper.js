@@ -3,7 +3,8 @@ const fs = require("fs");
 const person = {
   name: "Mike",
   age: 21,
-  country: "japan"
+  country: "japan",
+  height: 177
 }
 
 const read = function() {
